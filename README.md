@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adam Solomon ==================================================================================================================================== 
+**Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adam Solomon **
+==================================================================================================================================== 
 * 🌍  I'm based in New York 
 * * ✉️  You can contact me at [adamsolomon1801@gmail.com](mailto:adamsolomon1801@gmail.com) 
 * * 🧠  I'm learning Kotlin 
