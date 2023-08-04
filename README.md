@@ -8,7 +8,7 @@ Hello there! 👋 I'm Adam Solomon, a dedicated Software Engineer with a strong 
 ## Skills
 
 Java programming ☕
-C, C++, Python
+ ,☁️ AWS,C, C++, Python
 Algorithms and data structures,
 Problem-solving and analytical thinking,
 Collaboration and teamwork
