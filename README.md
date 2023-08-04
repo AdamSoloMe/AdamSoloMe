@@ -1,10 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adam Solomon 
-==================================================================================================================================== 
-* 🌍  I'm based in New York 
-* * ✉️  You can contact me at [adamsolomon1801@gmail.com](mailto:adamsolomon1801@gmail.com) 
-* * 🧠  I'm learning Kotlin 
+Adam Solomon🧑‍💻
+Passionate Engineer | Problem Solver | Lifelong Learner
 
-### Skills  
+Find my portfolio here.
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://discord.com/users/Samuraijack20XX#7837" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/AdamSoloMe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Hello there! 👋 I'm Adam Solomon, a dedicated Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
+
+Skills
+
+Java programming ☕
+C, C++, Python
+Algorithms and data structures
+Problem-solving and analytical thinking
+Collaboration and teamwork
+Experience
+
+I have successfully completed various projects, demonstrating my ability to tackle challenges and deliver high-quality solutions. With a focus on building robust applications and creating seamless user experiences, I am committed to delivering impactful software solutions that drive efficiency and exceed expectations.
+
+Education
+
+B.S. in Computer Science
+Interests
+
+When I'm not coding, I love exploring the 🌎 great outdoors, 🚴 Biking or reading about new tech.
+
+Contact
+
+Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java development and software engineering.
+
+Let's build something amazing together! Keep coding and stay curious! ✨
