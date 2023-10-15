@@ -3,7 +3,7 @@ Passionate Aspiring DevOps Software Engineer | Problem Solver | Lifelong Learner
 
 Find my portfolio here.
 
-Hello there! 👋 I'm Adam Solomon, an Aspring Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
+Hello there! 👋 I'm Adam Solomon, an Aspiring Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
 
 ## Skills
 
@@ -19,6 +19,8 @@ I have successfully completed various projects, demonstrating my ability to tack
  ## Education
 
 B.S. in Computer Science
+
+Currently pursing Masters in Computer Science
 ## Interests
 
 When I'm not coding, I love exploring the 🌎 great outdoors, 🚴 Biking or reading about new tech.
