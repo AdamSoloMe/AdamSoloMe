@@ -1,5 +1,5 @@
 # Adam Solomon🧑‍💻
-Passionate Aspring DevOps Software Engineer | Problem Solver | Lifelong Learner
+Passionate Aspiring DevOps Software Engineer | Problem Solver | Lifelong Learner
 
 Find my portfolio here.
 
