@@ -8,8 +8,8 @@ Hello there! 👋 I'm Adam Solomon, an Aspiring Software Engineer with a strong 
 ## Skills
 
 Java programming ☕
- ,☁️ AWS,C, C++, Python
-Algorithms and data structures,
+ ,☁️ AWS, Python C, C++,
+ data structures and Algorithms ,
 Problem-solving and analytical thinking,
 Collaboration and teamwork
  ## Experience
@@ -23,11 +23,11 @@ B.S. in Computer Science
 Currently pursing Masters in Computer Science
 ## Interests
 
-When I'm not coding, I love exploring the 🌎 great outdoors, 🚴 Biking or reading about new tech.
+When I'm not Programmung, I love exploring the 🌎 great outdoors, 🚴 Biking or reading/learnign about new tech.
 
 ## Contact
 
-Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java development and software engineering.
+Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java or Python development and software engineering.
 
 Let's build something amazing together! Keep coding and stay curious! ✨
 
