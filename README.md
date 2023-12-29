@@ -20,7 +20,7 @@ I have successfully completed various projects, demonstrating my ability to tack
 
 B.S. in Computer Science
 
-Currently pursing Masters in Computer Science
+Currently pursing Masters in Computer Science at CUNY Queens College
 ## Interests
 
 When I'm not Programmung, I love exploring the 🌎 great outdoors, 🚴 Biking or reading/learning about new tech.
