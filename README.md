@@ -23,11 +23,11 @@ B.S. in Computer Science
 Currently pursing Masters in Computer Science at CUNY Queens College
 ## Interests
 
-When I'm not Programmung, I love exploring the 🌎 great outdoors, 🚴 Biking or reading/learning about new tech.
+When I'm not Programming, I love exploring the 🌎 great outdoors, 🚴 Biking or reading/learning about new tech.
 
 ## Contact
 
-Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java or Python development and software engineering.
+Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java,Python or Cloud development and software engineering.
 
 Let's build something amazing together! Keep coding and stay curious! ✨
 
