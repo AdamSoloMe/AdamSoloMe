@@ -1,5 +1,5 @@
 # Adam Solomon🧑‍💻
-Passionate Aspiring Cloud/DevOps Software Engineer | Problem Solver | Lifelong Learner
+Passionate Aspiring Machine learning Engineer | Problem Solver | Lifelong Learner
 
 Find my portfolio here.
 
