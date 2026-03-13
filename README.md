@@ -6,7 +6,7 @@ Find my portfolio here.
 Hello there! 👋 I'm Adam Solomon, an Aspiring Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AdamSoloMe?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSoloMe&langs_count=5&theme=tokyonight)]()
 ## Skills
 
 Java programming ☕
@@ -32,5 +32,5 @@ When I'm not Programming, I love exploring the 🌎 great outdoors, 🚴 Biking 
 Feel free to connect with me on LinkedIn I am always open to new opportunities and discussions about Java,Python or Cloud development and software engineering.
 
 Let's build something amazing together! Keep coding and stay curious! ✨
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSoloMe&langs_count=5&theme=tokyonight)]()
+
 
