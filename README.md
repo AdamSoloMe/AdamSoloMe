@@ -3,7 +3,7 @@ Passionate Aspiring Software Engineer | Problem Solver | Lifelong Learner
 
 Find my portfolio here.
 
-Hello there! 👋 I'm Adam Solomon, an Aspiring Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
+Hello there! 👋 I'm Adam Solomon, an Aspiring Software Engineer with a strong passion for solving complex problems through clean and efficient code. With a B.S. and Masters in Computer Science, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AdamSoloMe?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSoloMe&langs_count=5&theme=tokyonight)]()
